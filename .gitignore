@@ -1,3 +1,5 @@
 .env
 vars.tf
 .terraform
+*.pub
+terraform-aws.pub
